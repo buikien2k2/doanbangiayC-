@@ -1,0 +1,432 @@
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Shoes.exe.config
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Shoes.exe
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Shoes.pdb
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.Licensing.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\itextsharp.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\itextsharp.xml
+D:\Workspace\c#\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.exe
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.pdb
+D:\Workspace\c#\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\Shoes.exe.config
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\Shoes.exe
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\Shoes.pdb
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\itextsharp.dll
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\itextsharp.xml
+F:\Code\CSharp\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.exe
+F:\Code\CSharp\Project\Shoes\Shoes\obj\Debug\Shoes.pdb
+D:\Project\Shoes\Shoes\bin\Debug\Shoes.exe.config
+D:\Project\Shoes\Shoes\bin\Debug\Shoes.exe
+D:\Project\Shoes\Shoes\bin\Debug\Shoes.pdb
+D:\Project\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\Shoes\Shoes\bin\Debug\itextsharp.dll
+D:\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+D:\Project\Shoes\Shoes\bin\Debug\itextsharp.xml
+D:\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.exe
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.pdb
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.ThemKH.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimKiemThongTinKH.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimSanPham.resources
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TKChart.resources
+D:\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Project\Shoes\Shoes\bin\Debug\EnvDTE.dll
+D:\Project\Shoes\Shoes\bin\Debug\stdole.dll
+D:\Project\Shoes\Shoes\bin\Debug\Microsoft.MSXML.dll
+D:\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.subreport.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Shoes.exe.config
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Shoes.exe
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Shoes.pdb
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\itextsharp.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\stdole.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\itextsharp.xml
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.subreport.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.ThemKH.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimKiemThongTinKH.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimSanPham.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TKChart.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.exe
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.pdb
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Account.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Employee.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.EmployeeDetail.resources
+C:\Users\Admin\Downloads\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Login.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Shoes.exe.config
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Shoes.exe
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Shoes.pdb
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\itextsharp.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\EnvDTE.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\stdole.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\EnvDTE80.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj80.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj2.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\itextsharp.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\EnvDTE.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\EnvDTE80.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj80.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\VSLangProj2.xml
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.exe.config
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Account.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Employee.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.EmployeeDetail.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Login.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.subreport.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.ThemKH.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimKiemThongTinKH.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimSanPham.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TKChart.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.exe
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.pdb
+C:\Users\Acer\OneDrive\Máy tính\Project\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Shoes.exe.config
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Shoes.exe
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Shoes.pdb
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\itextsharp.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\EnvDTE.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\itextsharp.xml
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Account.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Employee.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.EmployeeDetail.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form1.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_ADD.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Form_CUSTOMER.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fProduct.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.fSupplier.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.Login.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productItem.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.productSubform.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.subreport.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.supplierSubform.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.ThemKH.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimKiemThongTinKH.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TimSanPham.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.GUI.TKChart.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.MainMenu.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.exe.licenses
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.exe
+C:\Users\Admin\Desktop\Project\Shoes\Shoes\obj\Debug\Shoes.pdb
