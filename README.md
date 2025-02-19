@@ -42,7 +42,23 @@
 🔹 **Tiết kiệm thời gian và tối ưu hóa quy trình bán hàng** – Hệ thống tự động hóa giúp tiết kiệm thời gian nhập liệu và xử lý đơn hàng.  
 🔹 **Giao diện trực quan, dễ sử dụng** – Nhân viên không cần nhiều thời gian để làm quen với hệ thống.  
 ## 📎 Ảnh chụp màn hình *(Screenshots)*
+### Màn hình đăng nhập
+![Image](https://github.com/user-attachments/assets/564a54dd-22b1-47b2-8467-73d0444e9ddd)
 
+### Màn hình chi tiết sản phẩm
+![Image](https://github.com/user-attachments/assets/f2a3e0c9-17c3-481d-a3e1-5c171f40ea4c)
+
+### Màn hình hóa đơn
+![Image](https://github.com/user-attachments/assets/e7004dec-1572-4ca0-a60a-1fe42fe65828)
+
+### Màn hình nhân viên
+![Image](https://github.com/user-attachments/assets/ef3b02e0-fbd1-4f50-83a5-a54fe10c86dc)
+
+### Màn hình khách hàng
+![Image](https://github.com/user-attachments/assets/462a0660-5ba6-4f03-84a6-0b9629c78af7)
+
+### Màn hình thống kê doanh thu
+![Image](https://github.com/user-attachments/assets/b4804a2c-3b9e-464d-aef9-b57cce35974b)
 
 ## Thành viên thực hiện dự án
 - Bùi Nguyễn Trung Kiên
