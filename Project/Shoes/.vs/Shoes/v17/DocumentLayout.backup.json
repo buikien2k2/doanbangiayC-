@@ -1,0 +1,446 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|c:\\users\\acer\\onedrive\\m\u00E1y t\u00EDnh\\new folder (2)\\new folder\\doanbangiayc-\\project\\shoes\\shoes\\gui\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\fproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\form_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\form_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\suppliersubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\suppliersubform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\subreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\subreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\timsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\timsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\reportreceipt.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\reportreceipt.rdlc||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\tkchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\tkchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\tkchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\tkchart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\form_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\bll\\adddetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\bll\\adddetailbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\employeedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\dal\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\dal\\accountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\dal\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\shoes\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD23178C-2332-4423-80DB-0ECB78F57DB6}|Shoes\\Shoes.csproj|solutionrelative:shoes\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\fProduct.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\fProduct.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\fProduct.cs [Design]",
+              "RelativeToolTip": "Shoes\\GUI\\fProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:14:26.161Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subreport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\subreport.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\subreport.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\subreport.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\subreport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Account.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Account.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\Account.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TKChart.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\TKChart.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\TKChart.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\TKChart.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\TKChart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TKChart.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\TKChart.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\TKChart.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\TKChart.cs",
+              "RelativeToolTip": "Shoes\\GUI\\TKChart.cs",
+              "ViewState": "AQIAAG0BAAAAAAAAAAAswH0BAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "Shoes\\GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form_CUSTOMER.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form_CUSTOMER.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Form_CUSTOMER.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form_CUSTOMER.cs [Design]",
+              "RelativeToolTip": "Shoes\\GUI\\Form_CUSTOMER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Shoes\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\MainMenu.cs [Design]",
+              "RelativeToolTip": "Shoes\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "supplierSubform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\supplierSubform.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\supplierSubform.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\supplierSubform.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\supplierSubform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportReceipt.rdlc",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\ReportReceipt.rdlc",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\ReportReceipt.rdlc",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\ReportReceipt.rdlc",
+              "RelativeToolTip": "Shoes\\GUI\\ReportReceipt.rdlc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-02-19T01:12:28.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Login.cs",
+              "RelativeToolTip": "Shoes\\GUI\\Login.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwDgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form_ADD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form_ADD.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Form_ADD.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\Form_ADD.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\Form_ADD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\TimSanPham.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\TimSanPham.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\TimSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\TimSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\Program.cs",
+              "RelativeDocumentMoniker": "Shoes\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\Program.cs",
+              "RelativeToolTip": "Shoes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form_ADD.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form_ADD.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Form_ADD.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form_ADD.cs",
+              "RelativeToolTip": "Shoes\\GUI\\Form_ADD.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA2wH4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\EmployeeDetail.cs",
+              "RelativeToolTip": "Shoes\\GUI\\EmployeeDetail.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAIwJoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Shoes\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\MainMenu.cs",
+              "RelativeToolTip": "Shoes\\MainMenu.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAwLgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\AccountDAO.cs",
+              "RelativeDocumentMoniker": "Shoes\\DAL\\AccountDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\AccountDAO.cs",
+              "RelativeToolTip": "Shoes\\DAL\\AccountDAO.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adddetailBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\BLL\\adddetailBLL.cs",
+              "RelativeDocumentMoniker": "Shoes\\BLL\\adddetailBLL.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\BLL\\adddetailBLL.cs",
+              "RelativeToolTip": "Shoes\\BLL\\adddetailBLL.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAmwHsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Employee.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Employee.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Employee.cs",
+              "RelativeToolTip": "Shoes\\GUI\\Employee.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAEwL0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Account.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Account.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Account.cs",
+              "RelativeToolTip": "Shoes\\GUI\\Account.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAywJsAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Employee.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Employee.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\Employee.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\EmployeeDetail.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\EmployeeDetail.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\Project\\Shoes\\Shoes\\GUI\\EmployeeDetail.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Project\\Shoes\\Shoes\\GUI\\EmployeeDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-19T01:12:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Shoes\\GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "Shoes\\GUI\\Form1.Designer.cs",
+              "ViewState": "AQIAABEDAAAAAAAAAAAkwCIDAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-02-19T01:12:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\DBConnection.cs",
+              "RelativeDocumentMoniker": "Shoes\\DAL\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\DBConnection.cs",
+              "RelativeToolTip": "Shoes\\DAL\\DBConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Shoes\\DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\M\u00E1y t\u00EDnh\\New folder (2)\\New folder\\doanbangiayC-\\Project\\Shoes\\Shoes\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "Shoes\\DAL\\DataProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwB8AAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:12:28.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
